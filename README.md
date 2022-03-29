@@ -35,7 +35,7 @@ N/A
 npm start to run server and used insomnia to test web app functions
 
 ## Walkthough Videos
-* [https://drive.google.com/file/d/1XN4WLTJ86JD6Z_238ruE-r9RVZ9DbgR1/view](#Add User functions)
+* (https://drive.google.com/file/d/1XN4WLTJ86JD6Z_238ruE-r9RVZ9DbgR1/view)
 
 
 ## Questions
