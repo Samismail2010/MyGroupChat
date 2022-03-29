@@ -35,8 +35,8 @@ N/A
 npm start to run server and used insomnia to test web app functions
 
 ## Walkthough Videos
-* Add User Function
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/fb2df5b1-d64d-4393-y1ad-eb7f3cd8a31f
+<a href="{chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/fb2df5b1-d64d-4393-y1ad-eb7f3cd8a31f}" title="Add User Function"><img src="{image-url}" alt="Alternate Text" /></a>
+
 
 ## Questions
 * find me on Github: [samismail2010](https://github.com/samismail2010)
